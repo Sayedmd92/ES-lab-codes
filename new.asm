@@ -1,0 +1,6 @@
+	AREA firstcode,CODE,READONLY
+ENTER
+Start
+	MOV R0,#1
+	MOV R1,#4
+	END

@@ -1,0 +1,6 @@
+	AREA VVV,CODE,READONLY
+    ENTRY
+Start
+	MOV R0,#4
+	MOV R1,#2
+	END
